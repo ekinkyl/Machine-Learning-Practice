@@ -1,0 +1,1 @@
+# This project involves building and evaluating machine learning models to predict the quality of red wine based on its chemical properties. 
